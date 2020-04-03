@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1585921282560.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2142459209",
+    "id" : "4D3E1FBE",
+    "lastKnownWriteTime" : 1585921445,
+    "last_content_update" : 1585921445200,
+    "path" : "~/Doc/Yey/Yey.Rmd",
+    "project_path" : "Yey.Rmd",
+    "properties" : {
+        "cursorPosition" : "11,25",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
